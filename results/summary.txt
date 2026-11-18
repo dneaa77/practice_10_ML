@@ -1,0 +1,14 @@
+Practice 10 - KMeans
+Best silhouette k: 6
+Selected k: 6
+ARI: 0.9771
+
+Cluster profiles:
+           Age  Annual Income (k$)  Spending Score (1-100)  Count                                 Segment
+Cluster                                                                                                  
+0        56.33               54.27                   49.07     45  Low income / Low spending / Avg age 56
+1        26.79               57.10                   48.13     39  Low income / Low spending / Avg age 27
+2        41.94               88.94                   16.97     33              High income / Low spending
+3        32.69               86.54                   82.13     39             High income / High spending
+4        25.00               25.26                   77.61     23              Low income / High spending
+5        45.52               26.29                   19.38     21  Low income / Low spending / Avg age 46
